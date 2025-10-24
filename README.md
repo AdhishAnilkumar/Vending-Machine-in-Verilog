@@ -8,7 +8,7 @@ i)**INIT**             :Initial state of syustem.<br>
 ii)**BAL**             :Calculates balance and returns balance value.<br>
 iii)**INSUFF**         :If in case amount is less than the product price, it reaches insufficient state and return the same amount as balance and declare insufficient.<br>
 
-The machine accepts single product input at a time .The inputs in Verilog code are as follows:<br>
+The machine accepts **single product input at a time** .The inputs in Verilog code are as follows:<br>
 i)**coins**            :4 bit register to input amount.<br>
 ii)**selA and selB**   :Selecting products A and B Vending machine.<br>
 
