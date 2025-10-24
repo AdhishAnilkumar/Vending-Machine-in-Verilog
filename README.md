@@ -13,7 +13,7 @@ i)**coins**            :4 bit register to input amount.<br>
 ii)**selA and selB**   :Selecting products A and B Vending machine.<br>
 
 The outputs in code are as follows:<br>
-i)**dispA and dispB**  :Display which product has been send out.<br>
+i)**dispA and dispB**  :1 bit register to display which product has been send out.<br>
 ii)**balance**         :4 bit register to print out remaining amount .<br>
 iii)**insuff**         :To display when amount is insufficient.<br>
 
