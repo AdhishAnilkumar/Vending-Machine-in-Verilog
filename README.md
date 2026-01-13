@@ -2,7 +2,7 @@
 
 Objective of this project:**To design a vending machine in Verilog.**
 
-This project focuses on Simulation of Vending Machine in Verilog using testbench and generating RTL (Register Transfer Logic ) design in **Vivado**. This project has been implemneted using Mealy FSM  consisting of 3 states.<br>
+This project focuses on Simulation of Vending Machine in Verilog using testbench and generating RTL (Register Transfer Logic ) design in **Vivado**. This project has been implemeneted using Mealy FSM  consisting of 3 states.<br>
 
 i)**INIT**             :Initial state of syustem.<br>
 ii)**BAL**             :Calculates balance and returns balance value.<br>
